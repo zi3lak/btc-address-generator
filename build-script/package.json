@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "google-closure-compiler": "^20190513.0.0"
+    "google-closure-compiler": "^20190528.1.0"
   }
 }
